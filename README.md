@@ -19,25 +19,6 @@ Werkzeug>=2.3.7
 # Computer Vision
 opencv-python==4.8.1.78
 
-# Face recognition stack
-
-
-# NOTE: dlib does NOT have stable prebuilt wheels for Python 3.11 on Windows.
-# Recommended Python version: 3.9 or 3.10
-face-recognition==1.3.0
-face-recognition-models==0.3.0
-
-# dlib pinned for compatibility
-# Windows users should use Python 3.10
-dlib==19.24.2
-
-# Scientific & image processing
-numpy==1.24.3
-Pillow==10.0.1
-
-# Optional (used for CSV/Excel export if present in code)
-pandas>=1.5
-
 ## Features
 - ✅ Face registration for new students
 - ✅ Real-time face recognition via webcam
