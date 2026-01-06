@@ -10,7 +10,7 @@ An automated attendance system using face recognition technology to mark student
 - **Frontend**: HTML/CSS/JavaScript
 - **Libraries**: NumPy, Pandas, Pillow
 
-### Dlib Installation: Follow this Github Repo for installing dlib : [Visit Page](github.com/z-mahmud22/Dlib_Windows_Python3.x/tree/main)
+### Dlib Installation: Follow this Github Repo for installing dlib : [Visit Page](https://github.com/z-mahmud22/Dlib_Windows_Python3.x/tree/main)
 
 # Core backend
 Flask==2.3.3
